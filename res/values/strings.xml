@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Little Creek Fellowship</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Little Creek Fellowship</string>
+    <string name="title_activity_study">Bible Studies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_bs">Bible Study</string>
+
+</resources>
